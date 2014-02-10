@@ -1,0 +1,74 @@
+<!DOCTYPE CrossStudio_for_ARM_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints>
+  <BreakpointListItem line="72" action="" hardwareBreakpoint="" trigger="" useHWbreakpoint="false" group="Breakpoints" type="Breakpoint" state="2" counter="0" isFunctionBreakpoint="false" filename="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\main.h" expression="" />
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ESC32" name="unnamed" />
+  <ProjectSessionItem path="ESC32;ESC32" name="unnamed" />
+  <ProjectSessionItem path="ESC32;ESC32;Source Files" name="unnamed" />
+  <ProjectSessionItem path="ESC32;ESC32;STM32 Drivers" name="unnamed" />
+  <ProjectSessionItem path="ESC32;ESC32;STM32 Drivers;inc" name="unnamed" />
+  <ProjectSessionItem path="ESC32;ESC32;STM32 Drivers;src" name="unnamed" />
+  <ProjectSessionItem path="ESC32;ESC32;System Files" name="unnamed" />
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" />
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\main.c" y="155" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\main.c" left="0" selected="1" name="unnamed" top="26" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="27" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\cli.c" y="621" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\cli.c" left="0" selected="0" name="unnamed" top="78" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="2" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\config.c" y="136" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\config.c" left="0" selected="0" name="unnamed" top="102" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\fet.c" y="66" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\fet.c" left="0" selected="0" name="unnamed" top="35" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="16" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\pwm.c" y="20" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\pwm.c" left="0" selected="0" name="unnamed" top="38" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="29" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\pwm.h" y="15" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\pwm.h" left="0" selected="0" name="unnamed" top="6" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\digital.c" y="18" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\digital.c" left="0" selected="0" name="unnamed" top="6" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\ow.c" y="23" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\ow.c" left="0" selected="0" name="unnamed" top="2" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\rcc.c" y="89" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\rcc.c" left="0" selected="0" name="unnamed" top="66" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="4" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\run.c" y="121" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\run.c" left="0" selected="0" name="unnamed" top="109" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\serial.c" y="129" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\serial.c" left="0" selected="0" name="unnamed" top="78" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\timer.c" y="7" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\timer.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\adc.c" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\adc.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\adc.h" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\adc.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="6" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\binary.c" y="249" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\binary.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\binary.h" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\binary.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\can.c" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\can.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\can.h" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\can.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="51" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\cli.h" y="44" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\cli.h" left="0" selected="0" name="unnamed" top="3" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\config.h" y="80" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\config.h" left="0" selected="0" name="unnamed" top="46" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\digital.h" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\digital.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\fet.h" y="104" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\fet.h" left="0" selected="0" name="unnamed" top="100" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\main.h" y="71" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\main.h" left="0" selected="0" name="unnamed" top="40" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\ow.h" y="20" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\ow.h" left="0" selected="0" name="unnamed" top="6" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\rcc.h" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\rcc.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\run.h" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\run.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="19" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\serial.h" y="33" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\serial.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="26" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\timer.h" y="23" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\timer.h" left="0" selected="0" name="unnamed" top="3" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\5060.c" y="0" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\5060.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\stm32f10x_i2c.c" y="46" path="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard\stm32f10x_i2c.c" left="0" selected="0" name="unnamed" top="195" />
+ </Files>
+ <ARMCrossStudioWindow activeProject="ESC32" autoConnectTarget="" debugSearchFileMap="" fileDialogInitialDirectory="M:\PRO - Projets\DRO - Drone\1 - AutoQuad\001 - Softwares\001 - Development\ESC32 - 20140202\onboard" fileDialogDefaultFilter="" autoConnectCapabilities="0" debugSearchPath="" buildConfiguration="THUMB Debug" />
+</session>
